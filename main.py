@@ -1,5 +1,5 @@
-from historial import agregar_historial, mostrar_historial
-from operaciones_menu import mostrar_menu, sumar, restar, multiplicar, dividir
+from utils.historial import agregar_historial, mostrar_historial
+from utils.operaciones_menu import mostrar_menu, sumar, restar, multiplicar, dividir
 
 
 def calculadora ():
